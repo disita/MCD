@@ -1,0 +1,18 @@
+{
+    "golden_db1": {
+        "original_name" : "db1",
+        "golden_field1" : "id_pdv",
+        "golden_field2" : "nombre",
+        "golden_field3" : "estado",
+        "golden_field4" : "ciudad",
+        "golden_field5" : "cp"
+    },
+    "golden_db2": {
+        "original_name" : "db2",
+        "golden_field1" : "id_exhibidor",
+        "golden_field2" : "id_pdv",
+        "golden_field3" : "estado_fisico",
+        "golden_field4" : "largo",
+        "golden_field5" : "alto"
+    }
+}

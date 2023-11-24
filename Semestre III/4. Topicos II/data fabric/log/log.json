@@ -1,0 +1,46 @@
+{
+    "Pau": {},
+    "Francisco": {
+        "activities": [
+            {
+                "action": "login",
+                "timestamp": "19/10/2023 19:38:03"
+            },
+            {
+                "action": "unsuccess_db_check",
+                "timestamp": "19/10/2023 19:38:07",
+                "data_accessed": "musica"
+            }
+        ]
+    },
+    "Paulo": {},
+    "roberto": {
+        "activities": [
+            {
+                "action": "login",
+                "timestamp": "19/10/2023 19:28:10"
+            }
+        ]
+    },
+    "Marisol": {
+        "activities": [
+            {
+                "action": "unsucessful_login",
+                "timestamp": "02/11/2023 21:33:48"
+            }
+        ]
+    },
+    "Laura": {
+        "activities": [
+            {
+                "action": "login",
+                "timestamp": "02/11/2023 21:34:24"
+            },
+            {
+                "action": "success_db_check",
+                "timestamp": "02/11/2023 21:34:28",
+                "data_accessed": "alto"
+            }
+        ]
+    }
+}
